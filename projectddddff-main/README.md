@@ -1,2 +1,0 @@
-# project
-fake diia app
